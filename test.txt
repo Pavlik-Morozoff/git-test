@@ -10,3 +10,5 @@ six line
 seventh line
 
 feature branch content
+
+second feature branch content
